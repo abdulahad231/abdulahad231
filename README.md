@@ -32,3 +32,7 @@ I love creating modern web apps with **React**, **Node.js**, and **PostgreSQL**.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram)](https://instagram.com/your-link)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel)](https://yourportfolio.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&lines=Hi+there!+I'm+Abdul+Ahad;React+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulahad231&theme=tokyonight)
+![Visitors](https://komarev.com/ghpvc/?username=abdulahad231&color=blue)
+
