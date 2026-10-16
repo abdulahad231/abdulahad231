@@ -1,16 +1,6 @@
 # 👋 Hi, I'm Abdul Ahad
-### 🚀 React Developer | 💡 JavaScript Enthusiast | 🌍 Building Karigar360
 
-Welcome to my GitHub profile!  
-I love creating modern web apps with **React**, **Node.js**, and **PostgreSQL**.
-
----
-
-### 🧠 Currently working on:
-- 💼 [Karigar360](https://github.com/abdulahad231/Karigar360)
-- 🛒 React E-Commerce Project
-
----
+A Computer Science student and software developer passionate about building useful software and exploring new technologies. I have developed multiple applications and am currently working on AI bots and intelligent automation solutions. I enjoy learning new technologies, solving problems, and turning ideas into working projects. I'm always looking for opportunities to improve my skills and build innovative solutions.
 
 ### ⚙️ Languages and Tools:
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
@@ -30,9 +20,7 @@ I love creating modern web apps with **React**, **Node.js**, and **PostgreSQL**.
 
 ### 📝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdul-ahad-210673252)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram)](https://instagram.com/your-link)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram)](https://instagram.com/ahad_awan1.0/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel)](https://portfolio-app-phi-three.vercel.app/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&lines=Hi+there!+I'm+Abdul+Ahad;React+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulahad231&theme=tokyonight)
 ![Visitors](https://komarev.com/ghpvc/?username=abdulahad231&color=blue)
 
