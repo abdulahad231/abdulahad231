@@ -9,14 +9,6 @@ A Computer Science student and software developer passionate about building usef
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
----
-
-### 📊 GitHub Stats
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahad231&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad231&layout=compact&theme=tokyonight)
-
----
 
 ### 📝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdul-ahad-210673252)
